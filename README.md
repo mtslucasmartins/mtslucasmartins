@@ -1,4 +1,4 @@
-## Lucas Martins
+# Lucas Martins
 
 Passionate software engineer, motivated by challenges and with a lot of will to evolve and learn new things.
 
