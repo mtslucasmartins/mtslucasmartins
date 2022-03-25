@@ -1,10 +1,10 @@
 # Lucas Martins
 
-I'm a experienced software engineer, motivated by challenges. I've worked in the core team of one of the biggest media and content website from Brazil, responsible for deliverying content to millions of users every day. I recently joined IBM Consulting, developing and maintaining a billing platform for AT&T.
+I'm a experienced software engineer, motivated by challenges. I've worked in the core team of one of the biggest media and content website from Brazil, responsible for deliverying content to **millions of users** every day. I recently joined **IBM Consulting**, developing and maintaining a billing platform for **AT&T**.
 
-* Experience in scalable, high-performant, highly-available microservices.
-* Experience working with multiple programming languages, such as Java, Go, Python, and JavaScript (NodeJS).
-* Experience with DevOps tools and practices.
+* Experience in **scalable, high-performant, highly-available microservices**.
+* Experience working with multiple programming languages, such as **Java, Go, Python, and JavaScript (NodeJS)**.
+* Experience with **DevOps** tools and practices.
 * Currently studying Kafka and Terraform.
 
 <!--
