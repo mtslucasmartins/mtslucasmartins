@@ -5,6 +5,22 @@ I'm a experienced full-stack software engineer, driven by challenges always seek
 
 I've worked in the core team of one of the biggest media and content website from Brazil, responsible for deliverying content to **millions of users** every day. I recently joined **IBM Consulting**, developing and maintaining a billing platform for **AT&T**.
 
+* Experience in **scalable, high-performant, highly-available microservices**.
+* Experience working with multiple programming languages, such as **Java, Go, Python, and JavaScript (NodeJS)**.
+* Experience with **DevOps** tools and practices.
+* Currently studying Kafka and Terraform.
+
+### 💪 Things I'm proud of: 
+
+* Building and deliverying an **OAuth2** server for a microservices architecture all the way from design to production. 
+* R&D a more modern image compression tool for UOL Universo Online - optimizing image delivery and **reducing bandwhich costs** while delivering thousands of images every day. 
+* Maintaining and improving services responsible for live coverage of the **Olympics in Tokyo**, generating live updates and statistics.
+* Building a realtime notification system using an event based architecture with **NodeJS, Kafka, Redis and PostgreSQL**.
+
+### 🎓 Certifications:
+* Microsoft Certified: Azure Fundamentals - *Microsoft* - Dec/2021
+* Certified SAFe 5 Practitioner - *Scaled Agile, Inc* - Dec/2021
+
 ### Languages, Tools & Technologies:
 
 <p align="left"> 
@@ -33,23 +49,6 @@ I've worked in the core team of one of the biggest media and content website fro
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="java" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="java" width="45" height="45"/> 
 </p>
-
-
-* Experience in **scalable, high-performant, highly-available microservices**.
-* Experience working with multiple programming languages, such as **Java, Go, Python, and JavaScript (NodeJS)**.
-* Experience with **DevOps** tools and practices.
-* Currently studying Kafka and Terraform.
-
-### 💪 Things I'm proud of: 
-
-* Building and deliverying an **OAuth2** server for a microservices architecture all the way from design to production. 
-* R&D a more modern image compression tool for UOL Universo Online - optimizing image delivery and **reducing bandwhich costs** while delivering thousands of images every day. 
-* Maintaining and improving services responsible for live coverage of the **Olympics in Tokyo**, generating live updates and statistics.
-* Building a realtime notification system using an event based architecture with **NodeJS, Kafka, Redis and PostgreSQL**.
-
-### 🎓 Certifications:
-* Microsoft Certified: Azure Fundamentals - *Microsoft* - Dec/2021
-* Certified SAFe 5 Practitioner - *Scaled Agile, Inc* - Dec/2021
 
 
 <!--
