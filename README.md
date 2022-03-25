@@ -1,5 +1,6 @@
 # Lucas Martins
-
+## Full-Stack Software Engineer
+--- 
 I'm a experienced software engineer, motivated by challenges. I've worked in the core team of one of the biggest media and content website from Brazil, responsible for deliverying content to **millions of users** every day. I recently joined **IBM Consulting**, developing and maintaining a billing platform for **AT&T**.
 
 * Experience in **scalable, high-performant, highly-available microservices**.
