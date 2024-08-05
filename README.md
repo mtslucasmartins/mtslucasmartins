@@ -3,12 +3,12 @@
 
 I'm a experienced full-stack software engineer, driven by challenges always seeking to know something new, or better and smarter ways to do things. 
 
-I've worked in the core team of one of the biggest media and content website from Brazil, responsible for delivering content to **millions of users** every day. I recently joined **IBM Consulting**, developing and maintaining a billing platform for **AT&T**.
+I've worked in the core team of one of the biggest media and content website from Brazil, responsible for delivering content to **millions of users** every day. Also worked for **IBM Consulting**, developing and maintaining a billing platform for **AT&T**. Currently, I'm working for **Loblaw Digital**, developing solutions for one of the biggest pharmacy chains in Canada, **Shoppers Drug Mart**. 
 
-* Experience in **scalable, high-performant, highly-available microservices**.
+* Strong experience in **scalable, high-performant, highly-available microservices**.
 * Experience working with multiple programming languages, such as **Java, Go, Python, and JavaScript (NodeJS)**.
 * Experience with **DevOps** tools and practices.
-* Currently studying Kafka and Terraform.
+* Currently studying Rust.
 
 ### 💪 Things I'm proud of: 
 
