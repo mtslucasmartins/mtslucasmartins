@@ -39,7 +39,7 @@ I've worked in the core team of one of the biggest media and content website fro
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="java" width="45" height="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="java" width="45" height="45"/> 
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="java" width="45" height="45"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="java" width="45" height="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="java" width="45" height="45"/> 
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="java" width="45" height="45"/> 
